@@ -1,0 +1,345 @@
+@import url('https://fonts.googleapis.com/css2?family=Oxygen:wght@300&display=swap');
+
+.lightbutton {
+  background-color: #D5E2E5;
+  color: #000000;
+  border: 0px solid #aebabd;
+  font-size: medium;
+  border-radius: 8px;
+  width: 100px;
+  height: 40%;
+}
+.lightbutton2 {
+  background-color: #05677e;
+  color: #FFFFFF;
+  border: 0px solid #aebabd;
+  font-size: medium;
+  border-radius: 8px;
+  width: 100px;
+  height: 40%;
+}
+#rectangle{
+  width:100%;
+  height:100%;
+  background:#D5E5E2;
+  border-radius: 10px;
+}
+#rectangle2{
+
+width: 100%;
+height: 100%;
+background: #EEEEEE;
+box-shadow: 3px 3px 4px rgba(193, 192, 192, 0.25), -3px -3px 4px #FFFFFF;
+border-radius: 20px;
+
+}
+.items {
+  width: 50px;
+}
+.wide-display  {
+  min-width:33%;
+  position: relative;
+  width: 100%;
+  height:100%;
+  margin-top:6px;
+  overflow: hidden;
+  height:366px;
+}
+
+
+/*! First img Holder */
+
+#firstholder {
+  width: 449px;
+  height: 100%;
+  float:none;
+  display:inline-block;
+  margin-left:1px;
+  margin-right:0px;
+}
+
+
+.item1 {
+  width: 24%;
+  margin:  auto;
+  position:relative;
+}
+
+
+
+#secondholder {
+  width: 450px;
+  height: 100%;
+  float:none;
+  display:inline-block;
+  margin-right:0px;
+
+}
+
+#thirdholder {
+  width: 449px;
+  height: 100%;
+  float:none;
+  display:inline-block;
+}
+
+/* .Logo{
+  
+position: absolute;
+width: 158px;
+height: 53px;
+left: 8px;
+top: 2px;
+
+}
+.vector{
+position: absolute;
+width:100%;
+height: 0px;
+left: 0px;
+top: 50px;
+
+border: 1px solid #E6E4DF;
+}
+.Person{
+  position: absolute;
+  width: 18px;
+  height: 18px;
+  left: 64px;
+  top: 258px;
+  
+}
+.Lock{
+  position: absolute;
+  width: 15px;
+  height: 15px;
+  left: 64px;
+  top: 325px;  
+}
+.CLock{
+  position: absolute;
+  width: 15px;
+  height: 15px;
+  left: 68px;
+  top: 405px;
+  
+}
+.rectangle_for_userid{
+position: absolute;
+width: 287px;
+height: 40px;
+left: 44px;
+top: 247px;
+text-align: center;
+background: #FFFFFF;
+border: 1px solid #555555;
+box-sizing: border-box;
+border-radius: 30px;
+
+}
+
+.rectangle_for_pass{ 
+position: absolute;
+width: 287px;
+height: 40px;
+left: 44px;
+top: 315px;
+text-align: center;
+background: #FFFFFF;
+border: 1px solid #555555;
+box-sizing: border-box;
+border-radius: 30px;
+  
+}
+.rectangle_for_Cpass{
+  position: absolute;
+  width: 287px;
+  height: 40px;
+  left: 44px;
+  top: 394px;
+  text-align: center;
+  background: #FFFFFF;
+  border: 1px solid #555555;
+  box-sizing: border-box;
+  border-radius: 30px;
+}
+.remember_me{
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  left: 44px;
+  top: 407px;
+  
+  background: #000000;
+  border-radius: 2px;
+  
+}
+.Remember{
+position: absolute;
+width: 69px;
+height: 26px;
+left: 68px;
+top: 407px;
+
+font-family: Oxygen;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 16px;
+
+color: #727272;
+}
+.forget_pass{
+  position: absolute;
+  width: 79px;
+  height: 13px;
+  left: 253px;
+  top: 390px;
+  
+  font-family: Oxygen;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 16px;
+  
+  color: #727272;
+  
+
+}
+.login_button{
+position: absolute;
+width: 287px;
+height: 40px;
+left: 44px;
+top: 468px;
+color:#fff;
+background: #000000;
+border: 1px solid #555555;
+box-sizing: border-box;
+border-radius: 30px;
+
+
+
+
+
+}
+.sign_in{
+  position: absolute;
+width: 120px;
+height: 25px;
+left: 130px;
+top: 602px;
+
+font-family: Oxygen;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 25px;
+
+color: #000000;
+
+}
+
+.letsgo{
+position: absolute;
+width: 262px;
+height: 27px;
+left: 29px;
+top: 30px;
+
+font-family: NoirStd-Medium;
+font-size: 14px;
+line-height: 56px;
+
+
+display: flex;
+align-items: center;
+letter-spacing: 0.1em;
+
+color: #F81D86;
+
+}
+.vector1{
+  position: absolute;
+  width:87%;
+  height: 0px;
+  left: 0px;
+  top: 60px;
+  
+  border: 1px solid #ffffff;
+  }
+.girl{
+position: relative;
+width: 375px;
+height: 812px;
+
+background: #FFFFFF;
+}
+.explore{
+  position: absolute;
+  width: 339px;
+  height: 74px;
+  left: 18px;
+  top: 701px;
+  
+  background: #000000;
+  color: #FFFFFF;
+  border-radius: 5px;
+}
+.hellow{
+  position: absolute;
+  width: 181px;
+  height: 106px;
+  left: 27px;
+  top: 80px;
+  
+  font-family: Playfair Display;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 45px;
+  line-height: 53px;
+
+  
+  
+  color: rgba(0, 147, 180, 0.68);
+}
+.leonard{
+position: absolute;
+width: 181px;
+height: 106px;
+left: 27px;
+top: 120px;
+
+font-family: Playfair Display;
+font-style: normal;
+font-weight: normal;
+font-size: 45px;
+line-height: 53px;
+color: #000000;
+}
+.london{
+position: absolute;
+width: 684px;
+height: 1025px;
+left: -154px;
+top: -39px;
+
+background: url(london.png);
+}
+.circle{
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  left: 310px;
+  top: 48px;
+  border-radius: 20px;
+  
+  background: #FFFFFF;
+}
+.search{
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  left: 310px;
+  top: 58px;
+} */

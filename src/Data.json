@@ -1,0 +1,83 @@
+
+[
+  {
+    "author": "Chinua Achebe",
+    "country": "Nigeria",
+    "imageLink": "images/things-fall-apart.jpg",
+    "language": "English",
+    "link": "http://localhost:3000/bookagain",
+    "pages": 209,
+    "title": "Tajmahal",
+    "year": 1958
+  },
+  {
+    "author": "Hans Christian Andersen",
+    "country": "Denmark",
+    "imageLink": "images/fairy-tales.jpg",
+    "language": "Danish",
+    "link": "http://localhost:3000/history",
+    "pages": 784,
+    "title": "History",
+    "year": 1836
+  },
+  {
+    "author": "Dante Alighieri",
+    "country": "Italy",
+    "imageLink": "images/the-divine-comedy.jpg",
+    "language": "Italian",
+    "link": "http://localhost:3000/chang",
+    "pages": 928,
+    "title": "Chang mai",
+    "year": 1315
+  },
+  {
+    "author": "Unknown",
+    "country": "Sumer and Akkadian Empire",
+    "imageLink": "images/the-epic-of-gilgamesh.jpg",
+    "language": "Akkadian",
+    "link": "http://localhost:3000/fuji",
+    "pages": 160,
+    "title": "Mount fuji",
+    "year": -1700
+  },
+  {
+    "author": "Unknown",
+    "country": "Achaemenid Empire",
+    "imageLink": "images/the-book-of-job.jpg",
+    "language": "Hebrew",
+    "link": "http://localhost:3000/poland",
+    "pages": 176,
+    "title": "Poland",
+    "year": -600
+  },
+  {
+    "author": "Unknown",
+    "country": "India/Iran/Iraq/Egypt/Tajikistan",
+    "imageLink": "images/one-thousand-and-one-nights.jpg",
+    "language": "Arabic",
+    "link": "http://localhost:3000/cart",
+    "pages": 288,
+    "title": "Cart",
+    "year": 1200
+  },
+  {
+    "author": "Unknown",
+    "country": "Iceland",
+    "imageLink": "images/njals-saga.jpg",
+    "language": "Old Norse",
+    "link": "http://localhost:3000/pro",
+    "pages": 384,
+    "title": "Pro",
+    "year": 1350
+  },
+  {
+    "author": "Jane Austen",
+    "country": "United Kingdom",
+    "imageLink": "images/pride-and-prejudice.jpg",
+    "language": "English",
+    "link": "http://localhost:3000/offers",
+    "pages": 226,
+    "title": "Offers",
+    "year": 1813
+  }
+]
